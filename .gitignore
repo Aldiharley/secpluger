@@ -54,6 +54,8 @@ config/
 *.sqlite3
 
 # Test and pentest scripts (development/testing only)
+# Root-level test scripts (NOT tests/ directory)
+/test_*.py
 pentest_*.py
 pentest_*.log
 test_*.log
@@ -64,6 +66,10 @@ quick_test_*.py
 full_*.sh
 integrate_*.py
 *_test_*.py
+
+# Workflow files from actual pentests (keep only examples)
+workflows/*_pentest_*.json
+workflows/juice_*.json
 
 # Internal documentation (not for public release)
 *_SUMMARY.md
