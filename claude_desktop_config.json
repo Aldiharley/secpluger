@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "secpluger": {
+      "command": "python3",
+      "args": [
+        "/home/aldi/project/secpluger-v2/src/mcp/secpluger_mcp_server.py"
+      ],
+      "env": {},
+      "description": "SecPluger - Workflow recorder and evidence collector for pentesting"
+    }
+  }
+}

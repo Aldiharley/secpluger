@@ -1,0 +1,141 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+*.env
+
+# IDE
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing artifacts
+*.log
+*.test.log
+test-data/
+test_results/
+htmlcov/
+.coverage
+.pytest_cache/
+.tox/
+.nyc_output/
+*.lcov
+
+# Evidence and reports (generated during testing)
+evidence/
+reports/
+screenshots/
+cache/
+data/
+config/
+
+# Database files (test databases)
+*.db
+*.sqlite
+*.sqlite3
+
+# Test and pentest scripts (development/testing only)
+pentest_*.py
+pentest_*.log
+test_*.log
+complete_*.py
+comprehensive_*.py
+parallel_*.py
+quick_test_*.py
+full_*.sh
+integrate_*.py
+*_test_*.py
+
+# Internal documentation (not for public release)
+*_SUMMARY.md
+*_REPORT.md
+*_COMPLETE.md
+*_IMPLEMENTATION.md
+*_GUIDE.md
+*_FIXES*.md
+*_ISSUES.md
+*_RESULTS.md
+*_ANALYSIS.md
+*_INTEGRATION*.md
+*_ASSESSMENT*.md
+*_UPGRADE*.md
+*_ENHANCEMENT*.md
+PHASE*.md
+BUGFIX*.md
+AUTO_*.md
+SOLUTIONS_*.md
+analysis_*.md
+COMPARISON_*.md
+COMPLETE_*.md
+CODEBASE_*.md
+OWASP_*.md
+BURP_*.md
+MCP_INTEGRATION_*.md
+MCP_KNOWLEDGE_*.md
+MITMPROXY_*.md
+PARALLEL_*.md
+REPORTING_*.md
+SCREENSHOT_*.md
+SECPLUGER_*.md
+SETUP_*.md
+KNOWLEDGE_BASE_*.md
+DYNAMIC_*.md
+EVIDENCE_COLLECTION_*.md
+INSTALLATION_*.md
+NEW_DESIGN.md
+QUICK_COMPARISON.md
+QUICK_START_TOOL_MANAGEMENT.md
+USAGE_WITH_CLAUDE.md
+TEST_*.md
+
+# Keep these essential docs
+!README.md
+!README_MCP_SETUP.md
+!LICENSE.md
+!CONTRIBUTING.md
+!CLAUDE.md
+
+# Patch files
+*.patch
+*.txt
+*.diff
+
+# Generated files
+mcp_knowledge_base_patch.py
+configure_mcp.sh
+test_screenshot.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# MCP config (may contain sensitive paths)
+.mcp.json
+
+# pytest
+pytest.ini
+resources/asvs_templates/ASVS/

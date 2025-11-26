@@ -1,0 +1,158 @@
+# PolyForm Noncommercial License 1.0.0
+
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
+
+## Acceptance
+
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+
+## Copyright License
+
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose. However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).
+
+## Distribution License
+
+The licensor grants you an additional copyright license to distribute copies of the software. Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license).
+
+## Notices
+
+You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software. For example:
+
+> Required Notice: Copyright (c) 2025 SecPluger Contributors
+
+## Changes and New Works License
+
+The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
+
+## Patent License
+
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
+
+## Noncommercial Purposes
+
+Any noncommercial purpose is a permitted purpose.
+
+## Personal Uses
+
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
+
+## Noncommercial Organizations
+
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
+
+## Defense
+
+Don't make any legal claim against anyone accusing the software, with or without changes, alone or with other technology, of infringing any patent.
+
+## Copyright
+
+The licensor licenses you to do everything with the software that would otherwise infringe their copyright in it for any permitted purpose. However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).
+
+## Reliability
+
+The licensor can not revoke this license.
+
+## No Liability
+
+***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
+
+---
+
+## Commercial Licensing
+
+**Commercial use of SecPluger requires a separate commercial license.**
+
+A commercial license is required if you want to:
+- Use SecPluger as part of a commercial product or service
+- Use SecPluger for commercial consulting or professional services
+- Deploy SecPluger in a commercial environment
+- Offer SecPluger-as-a-Service to third parties
+
+For commercial licensing inquiries, please contact:
+- **Email**: licensing@secpluger.io
+- **GitHub**: Open an issue with the label "commercial-license"
+
+---
+
+## Third-Party Licenses and Attributions
+
+SecPluger integrates code from the following open-source projects, which are licensed under their respective licenses:
+
+### MCP-Kali-Server
+
+**Repository**: https://github.com/Wh0am123/MCP-Kali-Server
+**Copyright**: (c) 2025 Wh0am123
+**License**: MIT License
+**Used in**: `src/mcp/secpluger_mcp_server.py`
+
+```
+MIT License
+
+Copyright (c) 2025 Wh0am123
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## Copyright Notice
+
+**Required Notice**: Copyright (c) 2025 SecPluger Contributors
+
+All rights reserved except as expressly granted in this license.
+
+---
+
+## Disclaimer
+
+**SECURITY TOOL DISCLAIMER**
+
+SecPluger is a penetration testing and security assessment tool. It is designed EXCLUSIVELY for:
+- Authorized security testing with written permission
+- Educational and research purposes
+- Security assessments on systems you own or have explicit authorization to test
+
+**You are solely responsible for:**
+- Obtaining proper authorization before testing any system
+- Complying with all applicable laws and regulations
+- Using the tool ethically and legally
+- Any consequences of unauthorized or illegal use
+
+**The authors and contributors:**
+- Assume NO liability for misuse, unauthorized access, or illegal activities
+- Do NOT condone or support illegal activities
+- Provide this tool "AS-IS" without any warranties
+- Are NOT responsible for any damages arising from the use of this software
+
+**WARNING**: Unauthorized access to computer systems is illegal in most jurisdictions. Always obtain explicit written permission before conducting any security testing.
+
+---
+
+## Contact
+
+For questions about this license:
+- **General inquiries**: info@secpluger.io
+- **Commercial licensing**: licensing@secpluger.io
+- **Security issues**: security@secpluger.io
+- **GitHub**: https://github.com/Aldiharley/secpluger
+
+---
+
+*This license is based on the PolyForm Noncommercial License 1.0.0*
+*Full license text available at: https://polyformproject.org/licenses/noncommercial/1.0.0*
